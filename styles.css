@@ -42,16 +42,14 @@ body {
 }
 
 #btnSubmit {
-    height: 30px;
+    height: 45px;
     align-content: center;
-    font-size: 28px;
     font-weight: bold;
-    
 
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
-    border-radius: 28px;
-    text-shadow: 1px 1px 3px #120e12;
+    border-radius: 15px;
+    text-shadow: 1px 1px 3px #585858;
     font-size: 28px;
     background: #ffffff;
     padding: 5px 15px 6px 15px;
