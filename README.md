@@ -3,6 +3,8 @@
 Project Source
 https://www.theodinproject.com/lessons/foundations-etch-a-sketch
 
+Live: https://github.com/gernesto14/Etch-A-Sketch
+
 Assignment
 
 Don’t forget to commit early & often! You can reference the Commit Message lesson here!
